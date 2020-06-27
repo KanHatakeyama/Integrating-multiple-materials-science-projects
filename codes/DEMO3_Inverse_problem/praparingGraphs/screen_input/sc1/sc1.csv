@@ -1,0 +1,5 @@
+﻿ID,Type,graph,note,,,,
+1,C,test,"x: comp,y:cond",{x},_unknown_,{y},10
+2,C,test,"x: comp,y:cond",{x},_unknown_,{y},100
+3,C,test,"x: comp,y:cond",{x},_unknown_,{y},1000
+4,C,test,"x: comp,y:cond",{x},_unknown_,{y},10000

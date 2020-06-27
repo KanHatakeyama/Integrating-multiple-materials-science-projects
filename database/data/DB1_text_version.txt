@@ -1,0 +1,4357 @@
+#ID
+1
+#comment
+P001Fig1_1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.0770 weight percent of C0004 and 99.92 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (197.15 S/cm)
+
+#ID
+2
+#comment
+P001Fig1_2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (14.84 weight percent of C0004 and 85.13 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (533 S/cm)
+
+#ID
+3
+#comment
+P001Fig1_3
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (28.13 weight percent of C0004 and 71.87 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (660 S/cm)
+
+#ID
+4
+#comment
+P001Fig1_4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (51.2 weight percent of C0004 and 48.8 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (860 S/cm)
+
+#ID
+5
+#comment
+P001Fig1_5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (70.1 weight percent of C0004 and 29.9 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1032 S/cm)
+
+#ID
+6
+#comment
+P001Fig1_6
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (86.4 weight percent of C0004 and 13.6 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1068 S/cm)
+
+
+#ID
+7
+#comment
+P001Fig1_7
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0004 was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1159 S/cm)
+
+#ID
+8
+#comment
+P001Fig2_1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0004 was dropped,
+which was kept for 5 minutes at 80 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (746 S/cm)
+
+#ID
+9
+#comment
+P001Fig2_2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0004 was dropped,
+which was kept for 5 minutes at 100 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (891 S/cm)
+
+
+#ID
+10
+#comment
+P001Fig2_3
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0004 was dropped,
+which was kept for 5 minutes at 120 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1114 S/cm)
+
+
+#ID
+11
+#comment
+P001Fig2_4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0004 was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1167 S/cm)
+
+#ID
+12
+#comment
+P001Fig2_5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0004 was dropped,
+which was kept for 5 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1170 S/cm)
+
+
+#ID
+13
+#comment
+P001Fig2_6
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0004 was dropped,
+which was kept for 5 minutes at 180 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1155 S/cm)
+
+
+#ID
+14
+#comment
+P001Fig2_7
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0004 was dropped,
+which was kept for 5 minutes at 200 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1143 S/cm)
+
+
+#ID
+15
+#comment
+P002Fig1a_1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.09 weight percent of C0005 and 99.91 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (571 S/cm)
+
+
+#ID
+16
+#comment
+P002Fig1a_2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.36 weight percent of C0005 and 99.64 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (1048 S/cm)
+
+
+#ID
+17
+#comment
+P002Fig1a_3
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.8 weight percent of C0005 and 99.2 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (1257 S/cm)
+
+
+#ID
+18
+#comment
+P002Fig1a_4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (1.7 weight percent of C0005 and 98.3 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (1356 S/cm)
+
+
+#ID
+19
+#comment
+P002Fig1a_5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (4.4 weight percent of C0005 and 95.6 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (1879 S/cm)
+
+
+#ID
+20
+#comment
+P002Fig1a_6
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (7 weight percent of C0005 and 93 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (1356 S/cm)
+
+
+#ID
+21
+#comment
+P002Fig1a_7
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (9 weight percent of C0005 and 91 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (2194 S/cm)
+
+
+#ID
+22
+#comment
+P002Fig1a_8
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (13 weight percent of C0005 and 87 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (2410 S/cm)
+
+
+#ID
+23
+#comment
+P002Fig1a_9
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (17 weight percent of C0005 and 83 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (2388 S/cm)
+
+
+#ID
+24
+#comment
+P002Fig1a_10
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (21 weight percent of C0005 and 79 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (2379 S/cm)
+
+
+#ID
+25
+#comment
+P002Fig1a_11
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (25 weight percent of C0005 and 75 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (2361 S/cm)
+
+
+#ID
+26
+#comment
+P002Fig1b_1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (9 weight percent of C0005 and 91 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 100 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (1600 S/cm)
+
+
+#ID
+27
+#comment
+P002Fig1b_2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (9 weight percent of C0005 and 91 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 120 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (1704 S/cm)
+
+
+#ID
+28
+#comment
+P002Fig1b_3
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (9 weight percent of C0005 and 91 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (1893 S/cm)
+
+
+#ID
+29
+#comment
+P002Fig1b_4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (9 weight percent of C0005 and 91 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 150 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (1999 S/cm)
+
+
+#ID
+30
+#comment
+P002Fig1b_5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (9 weight percent of C0005 and 91 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (2182 S/cm)
+
+
+#ID
+31
+#comment
+P002Fig1b_6
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (9 weight percent of C0005 and 91 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 170 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (2034 S/cm)
+
+
+#ID
+32
+#comment
+P002Fig1b_7
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (9 weight percent of C0005 and 91 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 180 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (1805 S/cm)
+
+
+#ID
+33
+#comment
+P002Fig1b_8
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (9 weight percent of C0005 and 91 weight percent of C0002) was dropped,
+which was kept for 5 minutes at 200 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (1724 S/cm)
+
+
+#ID
+34
+#comment
+P003Table1_1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0008) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1020 S/cm)
+
+
+#ID
+35
+#comment
+P003Table1_2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0009) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1370 S/cm)
+
+
+#ID
+36
+#comment
+P003Table1_3
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1660 S/cm)
+
+
+#ID
+37
+#comment
+P003Table1_4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0011) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (740 S/cm)
+
+
+#ID
+38
+#comment
+P003Table1_5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0007 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1280 S/cm)
+
+
+#ID
+39
+#comment
+P003Table1_6
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0012) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1570 S/cm)
+
+
+#ID
+40
+#comment
+P003Table1_7
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0013) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1640 S/cm)
+
+
+#ID
+41
+#comment
+P003Table1_8
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0014) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1210 S/cm)
+
+
+#ID
+42
+#comment
+P003Table1_9
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0002) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (970 S/cm)
+
+
+#ID
+43
+#comment
+P003Table1_10
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0007 in C0013) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1260 S/cm)
+
+
+#ID
+44
+#comment
+P003Table2_1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0008 was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.35 S/cm)
+
+
+#ID
+45
+#comment
+P003Table2_2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0009 was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (370 S/cm)
+
+
+#ID
+46
+#comment
+P003Table2_3
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0010 was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1.2 S/cm)
+
+
+#ID
+47
+#comment
+P003Table2_4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0012 was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (960 S/cm)
+
+
+#ID
+48
+#comment
+P003Table2_5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0013 was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.87 S/cm)
+
+
+#ID
+49
+#comment
+P003Table2_6
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0014 was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (890 S/cm)
+
+
+#ID
+50
+#comment
+P003Table2_7
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0011 was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.24 S/cm)
+
+
+#ID
+51
+#comment
+P003Table2_1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0002 was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (3 S/cm)
+
+
+#ID
+52
+#comment
+P003TFig2a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.00000004749 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.0574 S/cm)
+
+
+#ID
+53
+#comment
+P003TFig2a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.0000004680497182 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.0438 S/cm)
+
+
+#ID
+54
+#comment
+P003TFig2a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.0000048676996033 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.0453 S/cm)
+
+
+#ID
+55
+#comment
+P003TFig2a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.0000467693651170 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.0383 S/cm)
+
+
+#ID
+56
+#comment
+P003TFig2a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.0000993741123712 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.0329 S/cm)
+
+
+#ID
+57
+#comment
+P003TFig2a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.000537545 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.019202767 S/cm)
+
+
+#ID
+58
+#comment
+P003TFig2a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.000975222 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.011784143 S/cm)
+
+
+#ID
+59
+#comment
+P003TFig2a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.004598408 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.00191221 S/cm)
+
+
+#ID
+60
+#comment
+P003TFig2a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.009755697 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.001255221 S/cm)
+
+
+#ID
+61
+#comment
+P003TFig2a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.046367343 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.000830924 S/cm)
+
+#ID
+62
+#comment
+P003TFig2a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.481897632 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.000763833 S/cm)
+
+#ID
+63
+#comment
+P003TFig2a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.854409966 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.000803408 S/cm)
+
+#ID
+64
+#comment
+P003TFig2a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (1.364499897 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.000776803 S/cm)
+
+#ID
+65
+#comment
+P003TFig2a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (2.017512357 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.00089633 S/cm)
+
+
+#ID
+66
+#comment
+P003TFig2a2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.000955706 molar concentration of C0006 in C0013) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.032912999 S/cm)
+
+#ID
+67
+#comment
+P003TFig2a2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.004905469 molar concentration of C0006 in C0013) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.017801518 S/cm)
+
+#ID
+68
+#comment
+P003TFig2a2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.009840517 molar concentration of C0006 in C0013) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.005809894 S/cm)
+
+
+#ID
+69
+#comment
+P003TFig2a2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.048967272 molar concentration of C0006 in C0013) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.001298212 S/cm)
+
+
+#ID
+70
+#comment
+P003TFig2a2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.096017083 molar concentration of C0006 in C0013) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.000751079 S/cm)
+
+
+#ID
+71
+#comment
+P003TFig2a2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.481851791 molar concentration of C0006 in C0013) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.000751079 S/cm)
+
+
+#ID
+72
+#comment
+P003TFig2a2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.94749046 molar concentration of C0006 in C0013) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (0.000714081 S/cm)
+
+#ID
+73
+#comment
+P003TFig2b1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 80 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (810.2364201 S/cm)
+
+#ID
+74
+#comment
+P003TFig2b1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 100.0931759 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1402.113114 S/cm)
+
+#ID
+75
+#comment
+P003TFig2b1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 120.3856308 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1656.978496 S/cm)
+
+
+#ID
+76
+#comment
+P003TFig2b1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1666 S/cm)
+
+
+#ID
+77
+#comment
+P003TFig2b1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1304 S/cm)
+
+
+#ID
+78
+#comment
+P003TFig2b1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 180 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1161 S/cm)
+
+
+#ID
+79
+#comment
+P003TFig2b1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 200 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (984 S/cm)
+
+
+#ID
+80
+#comment
+P003TFig2b2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0013) was dropped,
+which was kept for 5 minutes at 80 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (672 S/cm)
+
+
+#ID
+81
+#comment
+P003TFig2b2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0013) was dropped,
+which was kept for 5 minutes at 100 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1424 S/cm)
+
+
+#ID
+82
+#comment
+P003TFig2b2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0013) was dropped,
+which was kept for 5 minutes at 120 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1610 S/cm)
+
+
+#ID
+83
+#comment
+P003TFig2b2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0013) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1637 S/cm)
+
+
+#ID
+84
+#comment
+P003TFig2b2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0013) was dropped,
+which was kept for 5 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1502 S/cm)
+
+
+#ID
+85
+#comment
+P003TFig2b2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0013) was dropped,
+which was kept for 5 minutes at 180 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (1054 S/cm)
+
+
+#ID
+86
+#comment
+P003TFig2b2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0013) was dropped,
+which was kept for 5 minutes at 200 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (715 S/cm)
+
+
+#ID
+87
+#comment
+P005TFig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+which was rinsed by C0009,
+to which a mixture C0002 was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0009,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (779.9 S/cm)
+
+
+#ID
+88
+#comment
+P005TFig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+which was rinsed by C0009,
+to which a mixture (68.5 weight percent of C0002 and 31.5 weight percent of C0005) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0009,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (1539 S/cm)
+
+
+#ID
+89
+#comment
+P005TFig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+which was rinsed by C0009,
+to which a mixture (45 weight percent of C0002 and 55 weight percent of C0005) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0009,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (1695 S/cm)
+
+
+#ID
+90
+#comment
+P005TFig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+which was rinsed by C0009,
+to which a mixture (27 weight percent of C0002 and 73 weight percent of C0005) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0009,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (1982 S/cm)
+
+#ID
+91
+#comment
+P005TFig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+which was rinsed by C0009,
+to which a mixture (12 weight percent of C0002 and 88 weight percent of C0005) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0009,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (2566 S/cm)
+
+#ID
+92
+#comment
+P005TFig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+which was rinsed by C0009,
+to which C0005 was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0009,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (4860 S/cm)
+
+
+#ID
+93
+#comment
+P006TFig1a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+to which a mixture (3 molar concentration of C0015 in C0002) was dropped,
+which was kept for 1 minutes at 25 Celsius,
+which was rinsed by C0016,
+which gave an electric conductivity (535 S/cm)
+
+
+
+#ID
+94
+#comment
+P006TFig1a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+to which a mixture (3 molar concentration of C0015 in C0002) was dropped,
+which was kept for 5 minutes at 25 Celsius,
+which was rinsed by C0016,
+which gave an electric conductivity (1241.452688 S/cm)
+
+
+#ID
+95
+#comment
+P006TFig1a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+to which a mixture (3 molar concentration of C0015 in C0002) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0016,
+which gave an electric conductivity (1598 S/cm)
+
+
+
+#ID
+96
+#comment
+P006TFig1a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+to which a mixture (3 molar concentration of C0015 in C0002) was dropped,
+which was kept for 30 minutes at 25 Celsius,
+which was rinsed by C0016,
+which gave an electric conductivity (1742 S/cm)
+
+
+
+#ID
+97
+#comment
+P006TFig1a1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+to which a mixture (3 molar concentration of C0015 in C0002) was dropped,
+which was kept for 60 minutes at 25 Celsius,
+which was rinsed by C0016,
+which gave an electric conductivity (1656 S/cm)
+
+
+#ID
+98
+#comment
+P006TFig1a2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+to which a mixture (14 molar concentration of C0015 in C0002) was dropped,
+which was kept for 1.7 minutes at 25 Celsius,
+which was rinsed by C0016,
+which gave an electric conductivity (2735 S/cm)
+
+
+#ID
+99
+#comment
+P006TFig1a2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+to which a mixture (14 molar concentration of C0015 in C0002) was dropped,
+which was kept for 6 minutes at 25 Celsius,
+which was rinsed by C0016,
+which gave an electric conductivity (3400 S/cm)
+
+
+#ID
+100
+#comment
+P006TFig1a2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+to which a mixture (14 molar concentration of C0015 in C0002) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0016,
+which gave an electric conductivity (3575 S/cm)
+
+
+#ID
+101
+#comment
+P006TFig1a2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+to which a mixture (14 molar concentration of C0015 in C0002) was dropped,
+which was kept for 30 minutes at 25 Celsius,
+which was rinsed by C0016,
+which gave an electric conductivity (3613 S/cm)
+
+
+#ID
+102
+#comment
+P006TFig1a2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+to which a mixture (14 molar concentration of C0015 in C0002) was dropped,
+which was kept for 60 minutes at 25 Celsius,
+which was rinsed by C0016,
+which gave an electric conductivity (3910 S/cm)
+
+
+#ID
+103
+#comment
+P007Table1_1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0003 was dropped,
+which was kept for 60 minutes at 25 Celsius,
+which was rinsed by C0016,
+which gave an electric conductivity (1206 S/cm)
+
+#ID
+104
+#comment
+P007Table1_1
+#text
+a mixture (1.3 weight percent of C0001 ("P") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0003 was dropped,
+which was kept for 60 minutes at 25 Celsius,
+which was rinsed by C0016,
+which gave an electric conductivity (226 S/cm)
+
+
+#ID
+105
+#comment
+P007Table1_1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0012 was dropped,
+which was kept for 60 minutes at 25 Celsius,
+which was rinsed by C0016,
+which gave an electric conductivity (1222 S/cm)
+
+
+#ID
+106
+#comment
+P007Table1_1
+#text
+a mixture (1.3 weight percent of C0001 ("P") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0012 was dropped,
+which was kept for 60 minutes at 25 Celsius,
+which was rinsed by C0016,
+which gave an electric conductivity (211 S/cm)
+
+
+#ID
+107
+#comment
+P007Table1_MAI
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (2100 S/cm)
+
+
+#ID
+108
+#comment
+P007Table1_MAI
+#text
+a mixture (1.3 weight percent of C0001 ("P") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0006 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (236 S/cm)
+
+
+#ID
+109
+#comment
+P007Table1_h2so4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (2156 S/cm)
+
+
+#ID
+110
+#comment
+P007Table1_h2so4
+#text
+a mixture (1.3 weight percent of C0001 ("P") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (281 S/cm)
+
+
+#ID
+111
+#comment
+P007Table1_h2so4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (3088 S/cm)
+
+
+#ID
+112
+#comment
+P007Table1_h2so4
+#text
+a mixture (1.3 weight percent of C0001 ("P") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 140 Celsius,
+which gave an electric conductivity (420 S/cm)
+
+
+#ID
+113
+#comment
+P007Table1_h2so4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (31 weight percent of C0005 and 69 weight percent of C0002) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (123 S/cm)
+
+
+#ID
+114
+#comment
+P007Table1_h2so4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (62 weight percent of C0005 and 38 weight percent of C0002) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1178 S/cm)
+
+
+#ID
+115
+#comment
+P007Table1_h2so4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (83 weight percent of C0005 and 17 weight percent of C0002) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (3718 S/cm)
+
+
+#ID
+116
+#comment
+P007Table1_h2so4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0005 was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (4175 S/cm)
+
+
+#ID
+117
+#comment
+P007Table1_h2so4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0005 was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 110 Celsius,
+which gave an electric conductivity (4055 S/cm)
+
+
+#ID
+118
+#comment
+P007Table1_h2so4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0005 was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (4156 S/cm)
+
+
+#ID
+119
+#comment
+P007Table1_h2so4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0005 was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 140 Celsius,
+which gave an electric conductivity (3801 S/cm)
+
+
+#ID
+120
+#comment
+P007Table1_h2so4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0005 was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 160 Celsius,
+which gave an electric conductivity (3405 S/cm)
+
+
+#ID
+121
+#comment
+P013Fig1
+#text
+a mixture (1.3 weight percent of C0001 ("P") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 180 minutes at 100 Celsius,
+which gave an electric conductivity (0.07 S/cm)
+
+
+#ID
+122
+#comment
+P013Fig1
+#text
+a mixture (1.3 weight percent of C0001 ("P"), 98.7 weight percent of C0002, and 0.01290977 weight percent of C0019) was spincoated,
+which was kept for 180 minutes at 100 Celsius,
+which gave an electric conductivity (2.55 S/cm)
+
+
+#ID
+123
+#comment
+P013Fig1
+#text
+a mixture (1.3 weight percent of C0001 ("P"), 98.7 weight percent of C0002, and 0.025941939 weight percent of C0019) was spincoated,
+which was kept for 180 minutes at 100 Celsius,
+which gave an electric conductivity (99 S/cm)
+
+
+#ID
+124
+#comment
+P013Fig1
+#text
+a mixture (1.3 weight percent of C0001 ("P"), 98.7 weight percent of C0002, and 0.03627048 weight percent of C0019) was spincoated,
+which was kept for 180 minutes at 100 Celsius,
+which gave an electric conductivity (120.0056238 S/cm)
+
+
+#ID
+125
+#comment
+P013Fig1
+#text
+a mixture (1.3 weight percent of C0001 ("P"), 98.7 weight percent of C0002, and 0.051210476 weight percent of C0019) was spincoated,
+which was kept for 180 minutes at 100 Celsius,
+which gave an electric conductivity (132.6095474 S/cm)
+
+
+#ID
+126
+#comment
+P013Fig1
+#text
+a mixture (1.3 weight percent of C0001 ("P"), 98.7 weight percent of C0002, and 0.064227931 weight percent of C0019) was spincoated,
+which was kept for 180 minutes at 100 Celsius,
+which gave an electric conductivity (120.76409 S/cm)
+
+
+#ID
+127
+#comment
+P013Fig1
+#text
+a mixture (1.3 weight percent of C0001 ("P"), 98.7 weight percent of C0002, and 0.085974866 weight percent of C0019) was spincoated,
+which was kept for 180 minutes at 100 Celsius,
+which gave an electric conductivity (89.74702172 S/cm)
+
+
+#ID
+128
+#comment
+P014FigS1
+#text
+a mixture (1.3 weight percent of C0001 ("P"), 98.7 weight percent of C0002, and 5 weight percent of C0010) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+which gave an electric conductivity (360.6562192 S/cm)
+
+
+#ID
+129
+#comment
+P014FigS1
+#text
+a mixture (1.3 weight percent of C0001 ("P"), 98.7 weight percent of C0002, and 5 weight percent of C0012) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+which gave an electric conductivity (307.5312641 S/cm)
+
+
+#ID
+130
+#comment
+P014FigS1
+#text
+a mixture (1.3 weight percent of C0001 ("P"), 98.7 weight percent of C0002, and 5 weight percent of C0014) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+which gave an electric conductivity (472.8686087 S/cm)
+
+#ID
+131
+#comment
+P014FigS1
+#text
+a mixture (1.3 weight percent of C0001 ("P"), 98.7 weight percent of C0002, and 5 weight percent of C0021) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+which gave an electric conductivity (366.4492531 S/cm)
+
+#ID
+132
+#comment
+P014FigS1_bare
+#text
+a mixture (1.3 weight percent of C0001 ("P") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+which gave an electric conductivity (0.252 S/cm)
+
+#ID
+133
+#comment
+P014FigS2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_five_hundred"), 98.7 weight percent of C0002, and 0.5 weight percent of C0014) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+which gave an electric conductivity (0.393 S/cm)
+
+
+#ID
+134
+#comment
+P014FigS2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_five_hundred"), 98.7 weight percent of C0002, and 1 weight percent of C0014) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+which gave an electric conductivity (7.09 S/cm)
+
+
+#ID
+135
+#comment
+P014FigS2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_five_hundred"), 98.7 weight percent of C0002, and 2 weight percent of C0014) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+which gave an electric conductivity (97.5 S/cm)
+
+
+#ID
+136
+#comment
+P014FigS2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_five_hundred"), 98.7 weight percent of C0002, and 3 weight percent of C0014) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+which gave an electric conductivity (328 S/cm)
+
+
+#ID
+137
+#comment
+P014FigS2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_five_hundred"), 98.7 weight percent of C0002, and 4 weight percent of C0014) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+which gave an electric conductivity (498 S/cm)
+
+#ID
+138
+#comment
+P014FigS2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_five_hundred"), 98.7 weight percent of C0002, and 5 weight percent of C0014) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+which gave an electric conductivity (525 S/cm)
+
+
+#ID
+139
+#comment
+P014FigS2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_five_hundred"), 98.7 weight percent of C0002, and 6 weight percent of C0014) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+which gave an electric conductivity (484 S/cm)
+
+
+#ID
+140
+#comment
+P014FigS2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_five_hundred"), 98.7 weight percent of C0002, and 7 weight percent of C0014) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+which gave an electric conductivity (488 S/cm)
+
+#ID
+141
+#comment
+P015Fig1
+#text
+a mixture (0.451 weight percent of C0001 ("Agfa Gevaert"), 99.990079816 weight percent of C0002, and 0.0099201838638 weight percent of C0023) was spincoated,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (0.00620 S/cm)
+
+#ID
+142
+#comment
+P015Fig1
+#text
+a mixture (0.451 weight percent of C0001 ("Agfa Gevaert"), 99.9503344 weight percent of C0002, and 0.04966559977 weight percent of C0023) was spincoated,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (0.0061553609483 S/cm)
+
+#ID
+143
+#comment
+P015Fig1
+#text
+a mixture (0.451 weight percent of C0001 ("Agfa Gevaert"), 99.900266765 weight percent of C0002, and 0.099733235211 weight percent of C0023) was spincoated,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (0.0083917789704 S/cm)
+
+#ID
+144
+#comment
+P015Fig1
+#text
+a mixture (0.451 weight percent of C0001 ("Agfa Gevaert"), 99.8499161 weight percent of C0002, and 0.15008390007 weight percent of C0023) was spincoated,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (0.006349120594 S/cm)
+
+#ID
+145
+#comment
+P015Fig1
+#text
+a mixture (0.451 weight percent of C0001 ("Agfa Gevaert"), 99.802910461 weight percent of C0002, and 0.19708953873 weight percent of C0023) was spincoated,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (0.0299 S/cm)
+
+#ID
+146
+#comment
+P015Fig1
+#text
+a mixture (0.451 weight percent of C0001 ("Agfa Gevaert"), 99.701022813 weight percent of C0002, and 0.29897718675 weight percent of C0023) was spincoated,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (0.17841659345 S/cm)
+
+#ID
+147
+#comment
+P015Fig1
+#text
+a mixture (0.451 weight percent of C0001 ("Agfa Gevaert"), 99.604225512 weight percent of C0002, and 0.39577448808 weight percent of C0023) was spincoated,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (1.5427109068 S/cm)
+
+#ID
+148
+#comment
+P015Fig1
+#text
+a mixture (0.451 weight percent of C0001 ("Agfa Gevaert"), 99.217883476 weight percent of C0002, and 0.78211652448 weight percent of C0023) was spincoated,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (10.28075023 S/cm)
+
+#ID
+149
+#comment
+P015Fig1
+#text
+a mixture (0.451 weight percent of C0001 ("Agfa Gevaert"), 99.005328179 weight percent of C0002, and 0.99467182056 weight percent of C0023) was spincoated,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (10.079854209 S/cm)
+
+#ID
+150
+#comment
+P015Fig1
+#text
+a mixture (0.451 weight percent of C0001 ("Agfa Gevaert"), 98.018547076 weight percent of C0002, and 1.9814529241 weight percent of C0023) was spincoated,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (10.420319756 S/cm)
+
+#ID
+151
+#comment
+P015Fig1
+#text
+a mixture (0.451 weight percent of C0001 ("Agfa Gevaert"), 96.994212759 weight percent of C0002, and 3.0057872413 weight percent of C0023) was spincoated,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (10.397149815 S/cm)
+
+#ID
+152
+#comment
+P015Fig1
+#text
+a mixture (0.451 weight percent of C0001 ("Agfa Gevaert"), 96.021054584 weight percent of C0002, and 3.9789454159 weight percent of C0023) was spincoated,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (8.7932257732 S/cm)
+
+#ID
+153
+#comment
+P015Fig1
+#text
+a mixture (0.451 weight percent of C0001 ("Agfa Gevaert"), 95.059902746 weight percent of C0002, and 4.9400972543 weight percent of C0023) was spincoated,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (10.180024543 S/cm)
+
+#ID
+154
+#comment
+P015Fig1
+#text
+a mixture (0.451 weight percent of C0001 ("Agfa Gevaert"), 93.138376031 weight percent of C0002, and 6.8616239691 weight percent of C0023) was spincoated,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (7.99502669 S/cm)
+
+#ID
+155
+#comment
+P015Fig1
+#text
+a mixture (0.451 weight percent of C0001 ("Agfa Gevaert"), 90.158995211 weight percent of C0002, and 9.8410047891 weight percent of C0023) was spincoated,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (8.7507930876 S/cm)
+
+#ID
+156
+#comment
+P016Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 95.518376295 weight percent of C0002, and 4.4816237051 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (478.16331781 S/cm)
+
+#ID
+157
+#comment
+P016Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 92.911887518 weight percent of C0002, and 7.0881124819 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (680.41662486 S/cm)
+
+#ID
+158
+#comment
+P016Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91.195568802 weight percent of C0002, and 8.8044311978 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (717.20171478 S/cm)
+
+#ID
+159
+#comment
+P016Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 89.505770053 weight percent of C0002, and 10.494229947 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (731.71397452 S/cm)
+
+#ID
+160
+#comment
+P016Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 87.051685869 weight percent of C0002, and 12.948314131 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (697.43128826 S/cm)
+
+#ID
+161
+#comment
+P016Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 83.046929061 weight percent of C0002, and 16.953070939 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (676.6190562 S/cm)
+
+#ID
+162
+#comment
+P016Fig2b
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 89.5 weight percent of C0002, and 10.5 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0012 was dropped,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (730.92964201 S/cm)
+
+#ID
+163
+#comment
+P016Fig2b
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 89.5 weight percent of C0002, and 10.5 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0012 was dropped,
+which was kept for 0.98360655738 minutes at 25 Celsius,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (1176.4268304 S/cm)
+
+#ID
+164
+#comment
+P016Fig2b
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 89.5 weight percent of C0002, and 10.5 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0012 was dropped,
+which was kept for 4.9590163934 minutes at 25 Celsius,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (1135.7052441 S/cm)
+
+#ID
+165
+#comment
+P016Fig2b
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 89.5 weight percent of C0002, and 10.5 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0012 was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (1093.9609068 S/cm)
+
+#ID
+166
+#comment
+P016Fig2b
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 89.5 weight percent of C0002, and 10.5 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0012 was dropped,
+which was kept for 14.959016393 minutes at 25 Celsius,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (1367.4352148 S/cm)
+
+#ID
+167
+#comment
+P016Fig2b
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 89.5 weight percent of C0002, and 10.5 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which C0012 was dropped,
+which was kept for 30.040983607 minutes at 25 Celsius,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (1434.4267959 S/cm)
+
+#ID
+168
+#comment
+P022Fig3b2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 8.8 weight percent of C0014) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+to which C0012 was dropped,
+which gave an electric conductivity (618.64660344 S/cm)
+
+#ID
+169
+#comment
+P022Fig3b2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 8.8 weight percent of C0014) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+to which C0012 was dropped,
+which was kept for 13.591337565 minutes at 25 Celsius,
+which gave an electric conductivity (596.00575172 S/cm)
+
+
+#ID
+170
+#comment
+P022Fig3b2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 8.8 weight percent of C0014) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+to which C0012 was dropped,
+which was kept for 30.058533893 minutes at 25 Celsius,
+which gave an electric conductivity (727.70846345 S/cm)
+
+#ID
+171
+#comment
+P022Fig3b2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 8.8 weight percent of C0014) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+to which C0012 was dropped,
+which was kept for 57.00518526 minutes at 25 Celsius,
+which gave an electric conductivity (943.136429 S/cm)
+
+#ID
+172
+#comment
+P022Fig3b2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 8.8 weight percent of C0014) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+to which C0012 was dropped,
+which was kept for 117.42363724 minutes at 25 Celsius,
+which gave an electric conductivity (882.67367718 S/cm)
+
+#ID
+173
+#comment
+P022Fig3b2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 8.8 weight percent of C0014) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+to which C0012 was dropped,
+which was kept for 178.78255312 minutes at 25 Celsius,
+which gave an electric conductivity (978.44267891 S/cm)
+
+#ID
+174
+#comment
+P022Fig3b2
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 8.8 weight percent of C0014) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+to which C0012 was dropped,
+which was kept for 219.68910224 minutes at 25 Celsius,
+which gave an electric conductivity (575.46514837 S/cm)
+
+#ID
+175
+#comment
+P022Fig3b1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 8.8 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+to which C0012 was dropped,
+which gave an electric conductivity (638.4145013 S/cm)
+
+#ID
+176
+#comment
+P022Fig3b1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 8.8 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+to which C0012 was dropped,
+which was kept for 13 minutes at 25 Celsius,
+which gave an electric conductivity (689.18357565 S/cm)
+
+#ID
+177
+#comment
+P022Fig3b1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 8.8 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+to which C0012 was dropped,
+which was kept for 26.863135267 minutes at 25 Celsius,
+which gave an electric conductivity (755.9557873 S/cm)
+
+#ID
+178
+#comment
+P022Fig3b1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 8.8 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+to which C0012 was dropped,
+which was kept for 56.658411887 minutes at 25 Celsius,
+which gave an electric conductivity (833.02008744 S/cm)
+
+
+#ID
+179
+#comment
+P022Fig3b1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 8.8 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+to which C0012 was dropped,
+which was kept for 119.67675638 minutes at 25 Celsius,
+which gave an electric conductivity (898.66519485 S/cm)
+
+
+#ID
+180
+#comment
+P022Fig3b1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 8.8 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+to which C0012 was dropped,
+which was kept for 179.47973101 minutes at 25 Celsius,
+which gave an electric conductivity (797.73417188 S/cm)
+
+
+#ID
+181
+#comment
+P022Fig3b1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 8.8 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+to which C0012 was dropped,
+which was kept for 240 minutes at 25 Celsius,
+which gave an electric conductivity (829.50805386 S/cm)
+
+
+#ID
+182
+#comment
+P022Fig3b1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 8.8 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+to which C0012 was dropped,
+which was kept for 299.99346396 minutes at 25 Celsius,
+which gave an electric conductivity (760.57459077 S/cm)
+
+#ID
+183
+#comment
+P022Fig3b1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 8.8 weight percent of C0012) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+to which C0012 was dropped,
+which was kept for 460.8527357 minutes at 25 Celsius,
+which gave an electric conductivity (665.85135587 S/cm)
+
+#ID
+184
+#comment
+P021Fig4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 0.05 molar concentration of C0030) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 130 Celsius,
+which gave an electric conductivity (328.76712329 S/cm)
+
+#ID
+185
+#comment
+P021Fig4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 0.05 molar concentration of C0031) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 130 Celsius,
+which gave an electric conductivity (814.09001957 S/cm)
+
+#ID
+186
+#comment
+P021Fig4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 0.05 molar concentration of C0032) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 130 Celsius,
+which gave an electric conductivity (1318.9823875 S/cm)
+
+#ID
+187
+#comment
+P021Fig4
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 91 weight percent of C0002, and 0.05 molar concentration of C0033) was spincoated,
+which was kept for 15 minutes at 130 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 130 Celsius,
+which gave an electric conductivity (1945.2054795 S/cm)
+
+#ID
+188
+#comment
+P023Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0024 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (1473 S/cm)
+
+#ID
+189
+#comment
+P023Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0025 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (1138 S/cm)
+
+#ID
+190
+#comment
+P023Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0026 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (965 S/cm)
+
+#ID
+191
+#comment
+P023Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0027 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (969 S/cm)
+
+#ID
+192
+#comment
+P023Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0028 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (659 S/cm)
+
+
+#ID
+193
+#comment
+P023Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0029 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (150 S/cm)
+
+
+#ID
+194
+#comment
+P025Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0012 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (200 S/cm)
+
+
+#ID
+195
+#comment
+P025Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0014 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (143 S/cm)
+
+
+#ID
+196
+#comment
+P025Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0021 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (46 S/cm)
+
+
+#ID
+197
+#comment
+P025Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0035 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (37 S/cm)
+
+
+#ID
+198
+#comment
+P025Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0036 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (20 S/cm)
+
+
+#ID
+199
+#comment
+P025Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0037 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (0.4 S/cm)
+
+
+#ID
+200
+#comment
+P025Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0038 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (0.4 S/cm)
+
+
+#ID
+201
+#comment
+P025Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0039 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (0.4 S/cm)
+
+
+#ID
+202
+#comment
+P025Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0009 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (0.4 S/cm)
+
+
+#ID
+203
+#comment
+P025Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (0.1 molar concentration of C0040 in C0010) was dropped,
+which was kept for 5 minutes at 140 Celsius,
+which was rinsed by C0002,
+which was kept for 5 minutes at 160 Celsius,
+which gave an electric conductivity (0.4 S/cm)
+
+
+#ID
+204
+#comment
+P042Fig1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 10 minutes at 150 Celsius,
+to which C0002 was dropped,
+which was kept for 5 minutes at 120 Celsius,
+which was rinsed by C0014,
+which was rinsed by C0042,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (545.64102564 S/cm)
+
+
+#ID
+205
+#comment
+P042Fig1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 10 minutes at 150 Celsius,
+to which a mixture (3 molar concentration of C0005 in C0002) was dropped,
+which was kept for 5 minutes at 120 Celsius,
+which was rinsed by C0014,
+which was rinsed by C0042,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (972.82051282 S/cm)
+
+
+#ID
+206
+#comment
+P042Fig1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 10 minutes at 150 Celsius,
+to which a mixture (5 molar concentration of C0005 in C0002) was dropped,
+which was kept for 5 minutes at 120 Celsius,
+which was rinsed by C0014,
+which was rinsed by C0042,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (1062.5641026 S/cm)
+
+
+#ID
+207
+#comment
+P042Fig1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 10 minutes at 150 Celsius,
+to which a mixture (10 molar concentration of C0005 in C0002) was dropped,
+which was kept for 5 minutes at 120 Celsius,
+which was rinsed by C0014,
+which was rinsed by C0042,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (1260 S/cm)
+
+
+#ID
+208
+#comment
+P042Fig1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 10 minutes at 150 Celsius,
+to which a mixture (13 molar concentration of C0005 in C0002) was dropped,
+which was kept for 5 minutes at 120 Celsius,
+which was rinsed by C0014,
+which was rinsed by C0042,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (1601.025641 S/cm)
+
+
+#ID
+209
+#comment
+P042Fig1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 10 minutes at 150 Celsius,
+to which a mixture (15 molar concentration of C0005 in C0002) was dropped,
+which was kept for 5 minutes at 120 Celsius,
+which was rinsed by C0014,
+which was rinsed by C0042,
+which was kept for 5 minutes at 120 Celsius,
+which gave an electric conductivity (1931 S/cm)
+
+
+#ID
+210
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (4.9011299435 S/cm)
+
+
+#ID
+211
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.019830508475 molar concentration of C0043) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (2.3870056497 S/cm)
+
+
+#ID
+212
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.04 molar concentration of C0043) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (54.081920904 S/cm)
+
+
+#ID
+213
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.059830508475 molar concentration of C0043) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1014.0677966 S/cm)
+
+
+#ID
+214
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.08 molar concentration of C0043) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1757.4152542 S/cm)
+
+
+#ID
+215
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.099830508475 molar concentration of C0043) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1759.0677966 S/cm)
+
+
+#ID
+216
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0 molar concentration of C0044) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (4.9152542373 S/cm)
+
+
+#ID
+217
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.019830508475 molar concentration of C0044) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (2.4011299435 S/cm)
+
+
+#ID
+218
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.040169491525 molar concentration of C0044) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (887.42937853 S/cm)
+
+
+#ID
+219
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.059661016949 molar concentration of C0044) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (2005.720339 S/cm)
+
+
+#ID
+220
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.08 molar concentration of C0044) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1978 S/cm)
+
+
+#ID
+221
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.099661016949 molar concentration of C0044) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1896.5536723 S/cm)
+
+
+#ID
+222
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.00016949152542 molar concentration of C0045) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (4.9293785311 S/cm)
+
+
+#ID
+223
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.020169491525 molar concentration of C0045) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (10.762711864 S/cm)
+
+
+#ID
+224
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.039830508475 molar concentration of C0045) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1170.7344633 S/cm)
+
+
+#ID
+225
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.059830508475 molar concentration of C0045) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1955.7344633 S/cm)
+
+
+#ID
+226
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.079661016949 molar concentration of C0045) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1903 S/cm)
+
+
+#ID
+227
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.099661016949 molar concentration of C0045) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1629.8870056 S/cm)
+
+
+#ID
+228
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.00016949152542 molar concentration of C0046) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (4.9293785311 S/cm)
+
+
+#ID
+229
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.02 molar concentration of C0046) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (2.4152542373 S/cm)
+
+
+#ID
+230
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.039830508475 molar concentration of C0046) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1608.2344633 S/cm)
+
+
+#ID
+231
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.06 molar concentration of C0046) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1997 S/cm)
+
+
+#ID
+232
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.080169491525 molar concentration of C0046) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1965 S/cm)
+
+
+#ID
+233
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.1 molar concentration of C0046) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1879 S/cm)
+
+
+#ID
+234
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0 molar concentration of C0047) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (4.92 S/cm)
+
+
+#ID
+235
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.019491525424 molar concentration of C0047) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (44.039548023 S/cm)
+
+
+#ID
+236
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.040169491525 molar concentration of C0047) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1362.4293785 S/cm)
+
+
+#ID
+237
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.059830508475 molar concentration of C0047) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1901.5677966 S/cm)
+
+
+#ID
+238
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.079830508475 molar concentration of C0047) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1815.7344633 S/cm)
+
+
+#ID
+239
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.1 molar concentration of C0047) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1900.7485876 S/cm)
+
+
+#ID
+240
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.00016949152542 molar concentration of C0048) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (4.9293785311 S/cm)
+
+
+#ID
+241
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.020169491525 molar concentration of C0048) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (2.4293785311 S/cm)
+
+
+#ID
+242
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.040169491525 molar concentration of C0048) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1149.9293785 S/cm)
+
+
+#ID
+243
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.059830508475 molar concentration of C0048) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1555.7344633 S/cm)
+
+
+#ID
+244
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.079830508475 molar concentration of C0048) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1528.2344633 S/cm)
+
+
+#ID
+245
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.1 molar concentration of C0048) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1496.5819209 S/cm)
+
+
+#ID
+246
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0 molar concentration of C0049) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (13.248587571 S/cm)
+
+
+#ID
+247
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.019830508475 molar concentration of C0049) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (2.4011299435 S/cm)
+
+
+#ID
+248
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.040169491525 molar concentration of C0049) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (649.92937853 S/cm)
+
+
+#ID
+249
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.060169491525 molar concentration of C0049) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1372.4293785 S/cm)
+
+
+#ID
+250
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.08 molar concentration of C0049) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1382.4152542 S/cm)
+
+
+#ID
+251
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.099830508475 molar concentration of C0049) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1288.2344633 S/cm)
+
+
+#ID
+252
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0 molar concentration of C0050) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (4.9011299435 S/cm)
+
+
+#ID
+253
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.019830508475 molar concentration of C0050) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (4.9011299435 S/cm)
+
+
+#ID
+254
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.039830508475 molar concentration of C0050) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (4.9011299435 S/cm)
+
+
+#ID
+255
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.059661016949 molar concentration of C0050) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (97.38700565 S/cm)
+
+
+#ID
+256
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.08 molar concentration of C0050) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (590.74858757 S/cm)
+
+
+#ID
+257
+#comment
+P043Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.10033898305 molar concentration of C0050) was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (588.27683616 S/cm)
+
+
+
+
+#ID
+258
+#comment
+P043Fig5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.06 molar concentration of C0044) was spincoated,
+to which a mixture (0.26569977933 weight percent of C0051 and 99.734300221 weight percent of C0002) was dropped,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (3057.117668 S/cm)
+
+
+#ID
+259
+#comment
+P043Fig5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.06 molar concentration of C0044) was spincoated,
+to which a mixture (5.174772294 weight percent of C0051 and 94.825227706 weight percent of C0002) was dropped,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1587.13332 S/cm)
+
+
+#ID
+260
+#comment
+P043Fig5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.06 molar concentration of C0044) was spincoated,
+to which a mixture (10.162048893 weight percent of C0051 and 89.837951107 weight percent of C0002) was dropped,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1334.123033 S/cm)
+
+
+#ID
+261
+#comment
+P043Fig5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.06 molar concentration of C0044) was spincoated,
+to which a mixture (15.216609037 weight percent of C0051 and 84.783390963 weight percent of C0002) was dropped,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1361.621076 S/cm)
+
+
+#ID
+262
+#comment
+P043Fig5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.06 molar concentration of C0044) was spincoated,
+to which a mixture (20.207629916 weight percent of C0051 and 79.792370084 weight percent of C0002) was dropped,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1240.620256 S/cm)
+
+
+#ID
+263
+#comment
+P043Fig5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.06 molar concentration of C0044) was spincoated,
+to which a mixture (25.174523951 weight percent of C0051 and 74.825476049 weight percent of C0002) was dropped,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (933.9811226 S/cm)
+
+
+#ID
+264
+#comment
+P043Fig5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.06 molar concentration of C0044) was spincoated,
+to which a mixture (30.156121668 weight percent of C0051 and 69.843878332 weight percent of C0002) was dropped,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (817.1055981 S/cm)
+
+
+#ID
+265
+#comment
+P043Fig5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.06 molar concentration of C0044) was spincoated,
+to C0014 was dropped,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (3045.527728 S/cm)
+
+
+#ID
+266
+#comment
+P043Fig5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.06 molar concentration of C0044) was spincoated,
+to which a mixture (0.034706294537 weight percent of C0051 and 99.965293705 weight percent of C0014) was dropped,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1458.406221 S/cm)
+
+
+#ID
+267
+#comment
+P043Fig5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.06 molar concentration of C0044) was spincoated,
+to which a mixture (0.072576597008 weight percent of C0051 and 99.927423403 weight percent of C0014) was dropped,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1239.045351 S/cm)
+
+
+#ID
+268
+#comment
+P043Fig5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.06 molar concentration of C0044) was spincoated,
+to which a mixture (0.10724113204 weight percent of C0051 and 99.892758868 weight percent of C0014) was dropped,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1228.162362 S/cm)
+
+
+#ID
+269
+#comment
+P043Fig5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.06 molar concentration of C0044) was spincoated,
+to which a mixture (0.14311212766 weight percent of C0051 and 99.856887872 weight percent of C0014) was dropped,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1132.994811 S/cm)
+
+
+#ID
+270
+#comment
+P043Fig5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.06 molar concentration of C0044) was spincoated,
+to which a mixture (0.17895581266 weight percent of C0051 and 99.821044187 weight percent of C0014) was dropped,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1073.349335 S/cm)
+
+
+#ID
+271
+#comment
+P043Fig5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.06 molar concentration of C0044) was spincoated,
+to which a mixture (0.21566908178 weight percent of C0051 and 99.784330918 weight percent of C0014) was dropped,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (871.6691357 S/cm)
+
+
+#ID
+272
+#comment
+P043Fig5
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.7 weight percent of C0002, and 0.06 molar concentration of C0044) was spincoated,
+to which a mixture (0.25151225178 weight percent of C0051 and 99.748487748 weight percent of C0014) was dropped,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (812.02366 S/cm)
+
+
+#ID
+273
+#comment
+P044Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 100 weight percent of C0002, and 0 weight percent of C0052) was spincoated,
+which was kept for 60 minutes at 140 Celsius,
+which gave an electric conductivity (0.823 S/cm)
+
+
+#ID
+274
+#comment
+P044Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 99.029042417 weight percent of C0002, and 0.97095758279 weight percent of C0052) was spincoated,
+which was kept for 60 minutes at 140 Celsius,
+which gave an electric conductivity (2.3620116228493924 S/cm)
+
+
+#ID
+275
+#comment
+P044Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 98.058875463 weight percent of C0002, and 1.9411245372 weight percent of C0052) was spincoated,
+which was kept for 60 minutes at 140 Celsius,
+which gave an electric conductivity (16.130898330414421 S/cm)
+
+
+#ID
+276
+#comment
+P044Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 97.52230231 weight percent of C0002, and 2.47769769 weight percent of C0052) was spincoated,
+which was kept for 60 minutes at 140 Celsius,
+which gave an electric conductivity (26.502648568806389 S/cm)
+
+
+#ID
+277
+#comment
+P044Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 97.030465548 weight percent of C0002, and 2.9695344516 weight percent of C0052) was spincoated,
+which was kept for 60 minutes at 140 Celsius,
+which gave an electric conductivity (19.471953884378991 S/cm)
+
+
+#ID
+278
+#comment
+P044Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 95.016273768 weight percent of C0002, and 4.9837262317 weight percent of C0052) was spincoated,
+which was kept for 60 minutes at 140 Celsius,
+which gave an electric conductivity (8.5380811099571048 S/cm)
+
+
+#ID
+279
+#comment
+P044Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 90.012320626 weight percent of C0002, and 9.9876793738 weight percent of C0052) was spincoated,
+which was kept for 60 minutes at 140 Celsius,
+which gave an electric conductivity (4.062411207932608 S/cm)
+
+
+#ID
+280
+#comment
+P044Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 88.052286893 weight percent of C0002, and 11.947713107 weight percent of C0052) was spincoated,
+which was kept for 60 minutes at 140 Celsius,
+which gave an electric conductivity (467.76877701424689 S/cm)
+
+
+#ID
+281
+#comment
+P045Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 100 Celsius,
+to which a mixture (68 weight percent of C0014 and 32 weight percent of C0053) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was kept for 25 minutes at 30 Celsius,
+which was kept for 35 minutes at 110 Celsius,
+which gave an electric conductivity (0.75 S/cm)
+ 
+
+#ID
+282
+#comment
+P045Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 100 Celsius,
+to which a mixture (68 weight percent of C0014 and 32 weight percent of C0053) was dropped,
+which was kept for 20 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was kept for 25 minutes at 30 Celsius,
+which was kept for 35 minutes at 110 Celsius,
+which gave an electric conductivity (0.5 S/cm)
+ 
+
+#ID
+283
+#comment
+P045Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 100 Celsius,
+to which a mixture (68 weight percent of C0014 and 32 weight percent of C0053) was dropped,
+which was kept for 30 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was kept for 25 minutes at 30 Celsius,
+which was kept for 35 minutes at 110 Celsius,
+which gave an electric conductivity (0.44 S/cm)
+ 
+
+#ID
+284
+#comment
+P045Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 100 Celsius,
+to which a mixture (91.5 weight percent of C0014 and 8.5 weight percent of C0053) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was kept for 25 minutes at 30 Celsius,
+which was kept for 35 minutes at 110 Celsius,
+which gave an electric conductivity (1.6 S/cm)
+ 
+
+#ID
+285
+#comment
+P045Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 100 Celsius,
+to which a mixture (91.5 weight percent of C0014 and 8.5 weight percent of C0053) was dropped,
+which was kept for 20 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was kept for 25 minutes at 30 Celsius,
+which was kept for 35 minutes at 110 Celsius,
+which gave an electric conductivity (2.5 S/cm)
+ 
+
+#ID
+286
+#comment
+P045Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 100 Celsius,
+to which a mixture (91.5 weight percent of C0014 and 8.5 weight percent of C0053) was dropped,
+which was kept for 30 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was kept for 25 minutes at 30 Celsius,
+which was kept for 35 minutes at 110 Celsius,
+which gave an electric conductivity (2.8 S/cm)
+ 
+
+#ID
+287
+#comment
+P045Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 100 Celsius,
+to which a mixture (88.5 weight percent of C0037 and 11.5 weight percent of C0053) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was kept for 25 minutes at 30 Celsius,
+which was kept for 35 minutes at 110 Celsius,
+which gave an electric conductivity (1.1 S/cm)
+ 
+
+#ID
+288
+#comment
+P045Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 100 Celsius,
+to which a mixture (88.5 weight percent of C0037 and 11.5 weight percent of C0053) was dropped,
+which was kept for 20 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was kept for 25 minutes at 30 Celsius,
+which was kept for 35 minutes at 110 Celsius,
+which gave an electric conductivity (1.5 S/cm)
+ 
+
+#ID
+289
+#comment
+P045Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 100 Celsius,
+to which a mixture (88.5 weight percent of C0037 and 11.5 weight percent of C0053) was dropped,
+which was kept for 30 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was kept for 25 minutes at 30 Celsius,
+which was kept for 35 minutes at 110 Celsius,
+which gave an electric conductivity (1.2 S/cm)
+ 
+
+#ID
+290
+#comment
+P045Table1
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 15 minutes at 100 Celsius,
+to which a mixture (49.5 weight percent of C0002 and 50.5 weight percent of C0053) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was kept for 25 minutes at 30 Celsius,
+which was kept for 35 minutes at 110 Celsius,
+which gave an electric conductivity (0.14 S/cm)
+ 
+
+
+#ID
+291
+#comment
+P048Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 100 weight percent of C0002, and 0 weight percent of C0057) was spincoated at 5 Celsius,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (7.604562738 S/cm)
+ 
+
+#ID
+292
+#comment
+P048Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 99 weight percent of C0002, and 1 weight percent of C0057) was spincoated at 5 Celsius,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (71.6730038 S/cm)
+ 
+
+#ID
+293
+#comment
+P048Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 95 weight percent of C0002, and 5 weight percent of C0057) was spincoated at 5 Celsius,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (90.87452471 S/cm)
+ 
+
+#ID
+294
+#comment
+P048Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 90 weight percent of C0002, and 10 weight percent of C0057) was spincoated at 5 Celsius,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (41.44486692 S/cm)
+ 
+
+#ID
+295
+#comment
+P048Fig2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 80 weight percent of C0002, and 20 weight percent of C0057) was spincoated at 5 Celsius,
+which was kept for 15 minutes at 120 Celsius,
+which gave an electric conductivity (21.86311787 S/cm)
+ 
+
+
+#ID
+296
+#comment
+P048Fig2d
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated at 5 Celsius,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (98 weight percent of C0005 and 2 weight percent of C0002) was dropped,
+which was kept for 1 minutes at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 90 Celsius,
+which gave an electric conductivity (2360.1398601 S/cm)
+ 
+
+#ID
+297
+#comment
+P048Fig2d
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 99 weight percent of C0002, and 1 weight percent of C0057) was spincoated at 5 Celsius,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (98 weight percent of C0005 and 2 weight percent of C0002) was dropped,
+which was kept for 1 minutes at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 90 Celsius,
+which gave an electric conductivity (1237.7622378 S/cm)
+ 
+
+#ID
+298
+#comment
+P048Fig2d
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 95 weight percent of C0002, and 5 weight percent of C0057) was spincoated at 5 Celsius,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (98 weight percent of C0005 and 2 weight percent of C0002) was dropped,
+which was kept for 1 minutes at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 90 Celsius,
+which gave an electric conductivity (1363.6363636 S/cm)
+ 
+
+#ID
+299
+#comment
+P048Fig2d
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 90 weight percent of C0002, and 10 weight percent of C0057) was spincoated at 5 Celsius,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (98 weight percent of C0005 and 2 weight percent of C0002) was dropped,
+which was kept for 1 minutes at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 90 Celsius,
+which gave an electric conductivity (1494.7552448 S/cm)
+ 
+
+#ID
+300
+#comment
+P048Fig2d
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 80 weight percent of C0002, and 20 weight percent of C0057) was spincoated at 5 Celsius,
+which was kept for 15 minutes at 120 Celsius,
+to which a mixture (98 weight percent of C0005 and 2 weight percent of C0002) was dropped,
+which was kept for 1 minutes at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 90 Celsius,
+which gave an electric conductivity (1694.0559441 S/cm)
+ 
+
+
+#ID
+301
+#comment
+P051Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 10 minutes at 140 Celsius,
+to which a mixture (63 weight percent of C0002 and 37 weight percent of C0054) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was rinsed by C0002,
+which was kept for 10 minutes at 140 Celsius,
+which gave an electric conductivity (425.86750789 S/cm)
+ 
+
+#ID
+302
+#comment
+P051Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 10 minutes at 140 Celsius,
+to which a mixture (2 weight percent of C0002 and 98 weight percent of C0055) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was rinsed by C0002,
+which was kept for 10 minutes at 140 Celsius,
+which gave an electric conductivity (1296.5299685 S/cm)
+ 
+
+#ID
+303
+#comment
+P051Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 10 minutes at 140 Celsius,
+to which a mixture (35 weight percent of C0002 and 65 weight percent of C0015) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was rinsed by C0002,
+which was kept for 10 minutes at 140 Celsius,
+which gave an electric conductivity (2119.873817 S/cm)
+ 
+
+#ID
+304
+#comment
+P051Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 10 minutes at 140 Celsius,
+to which a mixture (2 weight percent of C0002 and 98 weight percent of C0005) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was rinsed by C0002,
+which was kept for 10 minutes at 140 Celsius,
+which gave an electric conductivity (2952.681388 S/cm)
+ 
+
+
+#ID
+305
+#comment
+P051Fig1a_nowash
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 10 minutes at 140 Celsius,
+to which a mixture (63 weight percent of C0002 and 37 weight percent of C0054) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was kept for 10 minutes at 140 Celsius,
+which gave an electric conductivity (388.0126183 S/cm)
+ 
+
+#ID
+306
+#comment
+P051Fig1a_nowash
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 10 minutes at 140 Celsius,
+to which a mixture (2 weight percent of C0002 and 98 weight percent of C0055) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was kept for 10 minutes at 140 Celsius,
+which gave an electric conductivity (1220.8201893 S/cm)
+ 
+
+#ID
+307
+#comment
+P051Fig1a_nowash
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 10 minutes at 140 Celsius,
+to which a mixture (35 weight percent of C0002 and 65 weight percent of C0015) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was kept for 10 minutes at 140 Celsius,
+which gave an electric conductivity (1249 S/cm)
+ 
+
+#ID
+308
+#comment
+P051Fig1a_nowash
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 10 minutes at 140 Celsius,
+to which a mixture (2 weight percent of C0002 and 98 weight percent of C0005) was dropped,
+which was kept for 10 minutes at 25 Celsius,
+which was rinsed by C0016,
+which was kept for 10 minutes at 140 Celsius,
+which gave an electric conductivity (1381.70347 S/cm)
+ 
+
+#ID
+309
+#comment
+P054Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand"), 93.7 weight percent of C0002, and 5 weight percent of C0014) was spincoated,
+which was kept for 30 minutes at 130 Celsius,
+to which a mixture (2 weight percent of C0002 and 98 weight percent of C0005) was dropped,
+which gave an electric conductivity (777 S/cm)
+
+
+#ID
+310
+#comment
+P054Fig1a_psrm
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 30 minutes at 130 Celsius,
+to which C0014 was dropped,
+which was kept for 0 minutes at 25 Celsius,
+which was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (996.44128114 S/cm)
+ 
+
+#ID
+311
+#comment
+P054Fig1a_psrm
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 30 minutes at 130 Celsius,
+to which C0014 was dropped,
+which was kept for 1 minutes at 25 Celsius,
+which was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1086 S/cm)
+ 
+
+#ID
+312
+#comment
+P054Fig1a_psrm
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 30 minutes at 130 Celsius,
+to which C0014 was dropped,
+which was kept for 3 minutes at 25 Celsius,
+which was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1295.3736655 S/cm)
+ 
+
+#ID
+313
+#comment
+P054Fig1a_psrm
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 30 minutes at 130 Celsius,
+to which C0014 was dropped,
+which was kept for 5 minutes at 25 Celsius,
+which was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1305.3380783 S/cm)
+ 
+
+#ID
+314
+#comment
+P054Fig1a_psrm
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 30 minutes at 130 Celsius,
+to which C0014 was dropped,
+which was kept for 8 minutes at 25 Celsius,
+which was spincoated,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1330 S/cm)
+ 
+
+#ID
+315
+#comment
+P059Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (0.095077999406 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1652 S/cm)
+ 
+
+#ID
+316
+#comment
+P059Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (0.499880056 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1573 S/cm)
+ 
+
+#ID
+317
+#comment
+P059Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (0.99755815494 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1180.8526407 S/cm)
+ 
+
+#ID
+318
+#comment
+P059Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1.982387924 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1036.5360172 S/cm)
+ 
+
+#ID
+319
+#comment
+P059Fig1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (4.9741851864 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1002 S/cm)
+ 
+
+
+#ID
+320
+#comment
+P059Fig1c
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0056 in C0002) was dropped at 0.44463373083 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (2163.7393526 S/cm)
+ 
+
+#ID
+321
+#comment
+P059Fig1c
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0056 in C0002) was dropped at 25.456558773 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1575 S/cm)
+ 
+
+#ID
+322
+#comment
+P059Fig1c
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0056 in C0002) was dropped at 79.838160136 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1110.9625213 S/cm)
+ 
+
+#ID
+323
+#comment
+P059Fig1c
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0005 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0056 in C0002) was dropped at 139.5988075 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (979.74020443 S/cm)
+ 
+
+
+#ID
+324
+#comment
+P059FigS1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (0.074276143161 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1004.5854979 S/cm)
+ 
+
+#ID
+325
+#comment
+P059FigS1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (0.49560279183 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (999.37917319 S/cm)
+ 
+
+#ID
+326
+#comment
+P059FigS1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (0.97114781123 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (964.02380466 S/cm)
+ 
+
+#ID
+327
+#comment
+P059FigS1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1.9801804254 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (959.07080148 S/cm)
+ 
+
+#ID
+328
+#comment
+P059FigS1a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (4.9934779157 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (873.08515385 S/cm)
+ 
+
+#ID
+329
+#comment
+P059FigS1c
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0056 in C0002) was dropped at 0.51515151515 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1222.6039783 S/cm)
+ 
+
+#ID
+330
+#comment
+P059FigS1c
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0056 in C0002) was dropped at 25.513617185 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (963.83363472 S/cm)
+ 
+
+#ID
+331
+#comment
+P059FigS1c
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0056 in C0002) was dropped at 80.563866513 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (856.41952984 S/cm)
+ 
+
+#ID
+332
+#comment
+P059FigS1c
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0056 in C0002) was dropped at 139.92750288 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (599.27667269 S/cm)
+ 
+
+
+#ID
+333
+#comment
+P059FigS2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (0.31838885703 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (2209.906648 S/cm)
+ 
+
+#ID
+334
+#comment
+P059FigS2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (0.51085885104 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (2192.7322042 S/cm)
+ 
+
+#ID
+335
+#comment
+P059FigS2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (0.81240054375 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (2196.4025023 S/cm)
+ 
+
+#ID
+336
+#comment
+P059FigS2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1.0132135885 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (2175.7722959 S/cm)
+ 
+
+#ID
+337
+#comment
+P059FigS2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1.2056191574 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (2151.6747305 S/cm)
+ 
+
+#ID
+338
+#comment
+P059FigS2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1.5149885001 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (2096.5042939 S/cm)
+ 
+
+#ID
+339
+#comment
+P059FigS2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1.9989176583 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1899.5316295 S/cm)
+ 
+
+#ID
+340
+#comment
+P059FigS2a
+#text
+a mixture (1.3 weight percent of C0001 ("PH_thousand") and 98.7 weight percent of C0002) was spincoated,
+which was kept for 20 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (1 molar concentration of C0012 in C0002) was dropped,
+which was kept for 10 minutes at 160 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+to which a mixture (5.0193597433 molar concentration of C0056 in C0002) was dropped at 25 Celsius,
+which was rinsed by C0002,
+which was kept for 10 minutes at 120 Celsius,
+which gave an electric conductivity (1576.2380894 S/cm)
+ 
+
+
+
+
+
+#ID
