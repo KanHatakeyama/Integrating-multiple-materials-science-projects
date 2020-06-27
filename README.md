@@ -1,7 +1,7 @@
 # Databases and graph libraries for machine learning of material science
 - These are databases and demo codes for the following paper
 - "Integrating multiple materials science projects in a single neural network"
-- Published by Communications Materials
+- Published in "Communications Materials"
 
 # Usage
 - You can view databases used in the study in a "database" folder
