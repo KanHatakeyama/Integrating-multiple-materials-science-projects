@@ -1,9 +1,11 @@
-# Graph libraries for machine learning of material science
-Demo codes for our paper "Integrating materials science projects with a single neural network"
-DOI: ****
+# Databases and graph libraries for machine learning of material science
+- These are databases and demo codes for the following paper
+- "Integrating multiple materials science projects in a single neural network"
+- Published by Communications Materials
 
 # Usage
-You can run jupyter notebook codes for the demo codes
+- You can view databases used in the study in a "database" folder
+- You can run jupyter notebook codes for the demo codes in a "codes" folder
 (prediction of conductivity of PEDOT-PSS from texts, multitask learning of multiple databases, inverse problems, and control experiments against the graph approach)
  
 # Note
@@ -13,8 +15,8 @@ Tested by Linux
 Most codes are written with camel case. Maybe modified in the future...
 
 # Author
-Kan Hatakeyama-Sato and Kenichi Oyaizu
-Waseda University
-http://www.appchem.waseda.ac.jp/~polymer/PolymerDatabase/
+- Kan Hatakeyama-Sato and Kenichi Oyaizu
+- Waseda University
+- http://www.appchem.waseda.ac.jp/~polymer/PolymerDatabase/
  
 Thank you!
