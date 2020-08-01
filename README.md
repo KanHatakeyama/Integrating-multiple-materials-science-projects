@@ -17,6 +17,7 @@ Most codes are written with camel case. Maybe modified in the future...
 # Author
 - Kan Hatakeyama-Sato and Kenichi Oyaizu
 - Waseda University
+- https://kanhatakeyama.github.io/
 - http://www.appchem.waseda.ac.jp/~polymer/PolymerDatabase/
  
 Thank you!
