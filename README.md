@@ -5,6 +5,7 @@
 
 # Install
 - conda env create -f=requirements.yaml
+- Checked with Ubuntu 18.04.5 LTS 
 
 # Usage
 - You can view databases used in the study in a "database" folder
