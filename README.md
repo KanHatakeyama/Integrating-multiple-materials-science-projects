@@ -6,6 +6,7 @@
 # Install
 - conda env create -f=requirements.yaml
 - Checked with Ubuntu 18.04.5 LTS 
+    - Making the environment seems to fail with Windows and Mac.
 
 # Usage
 - You can view databases used in the study in a "database" folder
